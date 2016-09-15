@@ -1,1 +1,4 @@
 * AIIT PBL研究会合宿2016
+
+** 過去の資料
+- [[https://github.com/ychubachi/pbl_camp_2014/blob/master/chubachi.org][pbl_camp_2014/chubachi.org at master · ychubachi/pbl_camp_2014]]
